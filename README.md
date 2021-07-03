@@ -1,5 +1,8 @@
 ### How to use the code : 
 
+link to dataset & MRNet competition [link](https://stanfordmlgroup.github.io/competitions/mrnet/)
+link to the MRNet publication [link](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699#sec007)
+
 DATASET : two folders `train` and `valid` + csv files.
 
 Arguments to run the script:
