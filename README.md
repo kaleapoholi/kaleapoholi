@@ -1,5 +1,5 @@
 ### How to use the code : 
- 
+
 DATASET : You should have two folders inside: `train` and `valid` as well as a bunch of csv files.
 
 To run the script you can execute it with the following arguments:
@@ -24,3 +24,6 @@ example to train a model to detect meniscus tears on the coronal plane for a 50 
 
 `python train_mrnet.py -t meniscus -p coronal --epochs=50 --suffixe my_training1`
 
+Note: Before running the script, add the following (empty) folders at the root of the project:
+- Outputs
+- logs
