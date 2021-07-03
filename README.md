@@ -28,9 +28,9 @@ Note: Before running the script, add the following (empty) folders at the root o
 - Outputs
 - logs
 
-Links:
-* dataset & MRNet competition [link](https://stanfordmlgroup.github.io/competitions/mrnet/)
-* MRNet publication [link](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699#sec007)
+Link to official MRNet:
+* [dataset & MRNet competition](https://stanfordmlgroup.github.io/competitions/mrnet/)
+* [MRNet publication](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699#sec007)
 
 Other implementations (pytorch):
 * [ahmedbesbes](https://github.com/ahmedbesbes/mrnet)
