@@ -1,8 +1,5 @@
 ### How to use the code : 
 
-link to dataset & MRNet competition [link](https://stanfordmlgroup.github.io/competitions/mrnet/)
-link to the MRNet publication [link](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699#sec007)
-
 DATASET : two folders `train` and `valid` + csv files.
 
 Arguments to run the script:
@@ -31,7 +28,10 @@ Note: Before running the script, add the following (empty) folders at the root o
 - Outputs
 - logs
 
+Links:
+* dataset & MRNet competition [link](https://stanfordmlgroup.github.io/competitions/mrnet/)
+* MRNet publication [link](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699#sec007)
 
-other implementations (pytorch):
+Other implementations (pytorch):
 * [ahmedbesbes](https://github.com/ahmedbesbes/mrnet)
 * [MisaOgura](https://github.com/MisaOgura/MRNet)
