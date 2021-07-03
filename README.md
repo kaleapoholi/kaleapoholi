@@ -3,7 +3,7 @@
 DATASET : You should have two folders inside: `train` and `valid` as well as a bunch of csv files.
 
 To run the script you can execute it with the following arguments:
-`
+```
 def parse_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('-t', '--task', type=str, required=True,
@@ -18,7 +18,7 @@ def parse_arguments():
     parser.add_argument('--momentum', type=float, default=0.9)
     args = parser.parse_args()
     return args
-`
+```
 
 example to train a model to detect meniscus tears on the coronal plane for a 50 epochs:
 
