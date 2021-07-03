@@ -35,3 +35,8 @@ Link to official MRNet:
 Other implementations (pytorch):
 * [ahmedbesbes](https://github.com/ahmedbesbes/mrnet)
 * [MisaOgura](https://github.com/MisaOgura/MRNet)
+
+
+###### TODO LIST 
+- visualize dataset
+- push CAM implementation to visualize "area predicted"
